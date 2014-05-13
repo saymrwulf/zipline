@@ -10,3 +10,4 @@
 2014-03-28T06:31:00 - Quick fix, referencing a known issue from the official repo (zipline)
 2014-03-28T19:26:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (zipline)
 2014-05-06T01:01:00 - Quick fix, referencing a known issue from the official repo (zipline)
+2014-05-14T01:21:00 - Late-night bugfix on financial RL environment (zipline)

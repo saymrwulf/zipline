@@ -12,3 +12,4 @@
 2014-05-06T01:01:00 - Quick fix, referencing a known issue from the official repo (zipline)
 2014-05-14T01:21:00 - Late-night bugfix on financial RL environment (zipline)
 2014-05-16T06:15:00 - Implementing approach from a new paper read last night (zipline)
+2014-05-16T18:02:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (zipline)

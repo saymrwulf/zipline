@@ -17,3 +17,4 @@
 2014-05-16T03:15:00 - Minor doc updates: linking to article on quantization (zipline)
 2014-05-19T03:20:00 - Minor doc updates: linking to article on quantization (zipline)
 2014-05-19T03:47:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (zipline)
+2014-05-19T04:41:00 - Late-night bugfix on financial RL environment (zipline)

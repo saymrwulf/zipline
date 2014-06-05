@@ -19,3 +19,4 @@
 2014-05-19T03:47:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (zipline)
 2014-05-19T04:41:00 - Late-night bugfix on financial RL environment (zipline)
 2014-05-19T21:15:00 - Implementing approach from a new paper read last night (zipline)
+2014-06-05T08:12:00 - Quick fix, referencing a known issue from the official repo (zipline)

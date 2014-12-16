@@ -23,3 +23,4 @@
 2014-10-29T21:41:00 - Late-night bugfix on financial RL environment (zipline)
 2014-10-29T06:26:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (zipline)
 2014-11-11T23:50:00 - Refactor for clarity, might break a few tests though (zipline)
+2014-12-16T02:04:00 - Late-night bugfix on financial RL environment (zipline)

@@ -25,3 +25,4 @@
 2014-11-11T23:50:00 - Refactor for clarity, might break a few tests though (zipline)
 2014-12-16T02:04:00 - Late-night bugfix on financial RL environment (zipline)
 2014-12-16T22:21:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (zipline)
+2015-01-05T21:42:00 - Implementing approach from a new paper read last night (zipline)

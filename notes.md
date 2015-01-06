@@ -28,3 +28,4 @@
 2015-01-05T21:42:00 - Implementing approach from a new paper read last night (zipline)
 2015-01-05T08:48:00 - Quick fix, referencing a known issue from the official repo (zipline)
 2015-01-05T03:19:00 - Late-night bugfix on financial RL environment (zipline)
+2015-01-06T22:27:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (zipline)

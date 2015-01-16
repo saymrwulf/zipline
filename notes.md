@@ -34,3 +34,4 @@
 2015-01-06T03:18:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (zipline)
 2015-01-11T02:20:00 - Implementing approach from a new paper read last night (zipline)
 2015-01-16T21:07:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (zipline)
+2015-01-16T01:36:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (zipline)

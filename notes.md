@@ -39,3 +39,4 @@
 2015-01-16T00:58:00 - Late-night bugfix on financial RL environment (zipline)
 2015-06-14T06:15:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (zipline)
 2015-06-14T20:19:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (zipline)
+2015-08-11T01:52:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (zipline)

@@ -43,3 +43,4 @@
 2015-08-11T23:37:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (zipline)
 2015-08-11T02:52:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (zipline)
 2015-08-11T17:44:00 - Implementing approach from a new paper read last night (zipline)
+2015-08-19T08:32:00 - Late-night bugfix on financial RL environment (zipline)

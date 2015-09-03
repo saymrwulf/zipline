@@ -45,3 +45,4 @@
 2015-08-11T17:44:00 - Implementing approach from a new paper read last night (zipline)
 2015-08-19T08:32:00 - Late-night bugfix on financial RL environment (zipline)
 2015-09-01T08:52:00 - Quick fix, referencing a known issue from the official repo (zipline)
+2015-09-03T22:25:00 - Late-night bugfix on financial RL environment (zipline)

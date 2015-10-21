@@ -49,3 +49,4 @@
 2015-09-03T23:55:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (zipline)
 2015-09-03T06:15:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (zipline)
 2015-09-03T03:32:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (zipline)
+2015-10-21T20:30:00 - Quick fix, referencing a known issue from the official repo (zipline)

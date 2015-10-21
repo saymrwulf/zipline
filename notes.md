@@ -51,3 +51,4 @@
 2015-09-03T03:32:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (zipline)
 2015-10-21T20:30:00 - Quick fix, referencing a known issue from the official repo (zipline)
 2015-10-21T03:14:00 - Implementing approach from a new paper read last night (zipline)
+2015-10-21T06:54:00 - Refactor for clarity, might break a few tests though (zipline)

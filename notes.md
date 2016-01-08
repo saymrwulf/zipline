@@ -55,3 +55,4 @@
 2015-10-21T03:09:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (zipline)
 2015-11-01T03:25:00 - Minor doc updates: linking to article on quantization (zipline)
 2015-11-01T18:39:00 - Minor doc updates: linking to article on quantization (zipline)
+2016-01-08T08:58:00 - Minor doc updates: linking to article on quantization (zipline)

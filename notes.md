@@ -59,3 +59,4 @@
 2016-01-08T03:08:00 - Implementing approach from a new paper read last night (zipline)
 2016-01-20T01:46:00 - Implementing approach from a new paper read last night (zipline)
 2016-01-20T03:37:00 - Implementing approach from a new paper read last night (zipline)
+2016-01-20T00:59:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (zipline)

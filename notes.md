@@ -58,3 +58,4 @@
 2016-01-08T08:58:00 - Minor doc updates: linking to article on quantization (zipline)
 2016-01-08T03:08:00 - Implementing approach from a new paper read last night (zipline)
 2016-01-20T01:46:00 - Implementing approach from a new paper read last night (zipline)
+2016-01-20T03:37:00 - Implementing approach from a new paper read last night (zipline)

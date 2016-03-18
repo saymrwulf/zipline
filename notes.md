@@ -61,3 +61,4 @@
 2016-01-20T03:37:00 - Implementing approach from a new paper read last night (zipline)
 2016-01-20T00:59:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (zipline)
 2016-03-04T06:12:00 - Late-night bugfix on financial RL environment (zipline)
+2016-03-18T02:33:00 - Late-night bugfix on financial RL environment (zipline)

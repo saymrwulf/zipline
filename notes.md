@@ -65,3 +65,4 @@
 2016-03-18T17:46:00 - Minor doc updates: linking to article on quantization (zipline)
 2016-03-18T18:05:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (zipline)
 2016-03-18T06:45:00 - Refactor for clarity, might break a few tests though (zipline)
+2016-06-23T20:31:00 - Quick fix, referencing a known issue from the official repo (zipline)

@@ -66,3 +66,4 @@
 2016-03-18T18:05:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (zipline)
 2016-03-18T06:45:00 - Refactor for clarity, might break a few tests though (zipline)
 2016-06-23T20:31:00 - Quick fix, referencing a known issue from the official repo (zipline)
+2016-08-13T04:57:00 - Implementing approach from a new paper read last night (zipline)

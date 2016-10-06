@@ -74,3 +74,4 @@
 2016-09-30T20:41:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (zipline)
 2016-09-30T06:53:00 - Late-night bugfix on financial RL environment (zipline)
 2016-10-07T07:43:00 - Quick fix, referencing a known issue from the official repo (zipline)
+2016-10-07T01:32:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (zipline)

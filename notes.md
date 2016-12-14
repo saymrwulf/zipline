@@ -77,3 +77,4 @@
 2016-10-07T01:32:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (zipline)
 2016-10-07T18:27:00 - Refactor for clarity, might break a few tests though (zipline)
 2016-10-07T08:28:00 - Implementing approach from a new paper read last night (zipline)
+2016-12-14T03:52:00 - Minor doc updates: linking to article on quantization (zipline)

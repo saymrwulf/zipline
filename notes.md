@@ -79,3 +79,4 @@
 2016-10-07T08:28:00 - Implementing approach from a new paper read last night (zipline)
 2016-12-14T03:52:00 - Minor doc updates: linking to article on quantization (zipline)
 2016-12-14T22:06:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (zipline)
+2016-12-20T17:01:00 - Refactor for clarity, might break a few tests though (zipline)

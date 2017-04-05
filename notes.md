@@ -87,3 +87,4 @@
 2017-03-10T02:17:00 - Quick fix, referencing a known issue from the official repo (zipline)
 2017-03-10T05:00:00 - Minor doc updates: linking to article on quantization (zipline)
 2017-03-10T19:18:00 - Quick fix, referencing a known issue from the official repo (zipline)
+2017-04-05T07:43:00 - Late-night bugfix on financial RL environment (zipline)

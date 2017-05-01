@@ -89,3 +89,4 @@
 2017-03-10T19:18:00 - Quick fix, referencing a known issue from the official repo (zipline)
 2017-04-05T07:43:00 - Late-night bugfix on financial RL environment (zipline)
 2017-04-05T18:21:00 - Refactor for clarity, might break a few tests though (zipline)
+2017-05-01T02:13:00 - Implementing approach from a new paper read last night (zipline)

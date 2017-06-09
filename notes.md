@@ -97,3 +97,4 @@
 2017-05-21T17:22:00 - Implementing approach from a new paper read last night (zipline)
 2017-06-10T20:34:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (zipline)
 2017-06-10T00:49:00 - Quick fix, referencing a known issue from the official repo (zipline)
+2017-06-10T00:10:00 - Implementing approach from a new paper read last night (zipline)

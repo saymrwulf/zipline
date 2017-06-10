@@ -98,3 +98,4 @@
 2017-06-10T20:34:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (zipline)
 2017-06-10T00:49:00 - Quick fix, referencing a known issue from the official repo (zipline)
 2017-06-10T00:10:00 - Implementing approach from a new paper read last night (zipline)
+2017-06-10T02:13:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (zipline)

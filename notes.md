@@ -101,3 +101,4 @@
 2017-06-10T02:13:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (zipline)
 2017-06-24T20:04:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (zipline)
 2017-06-24T01:15:00 - Quick fix, referencing a known issue from the official repo (zipline)
+2017-06-24T03:00:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (zipline)

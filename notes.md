@@ -102,3 +102,4 @@
 2017-06-24T20:04:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (zipline)
 2017-06-24T01:15:00 - Quick fix, referencing a known issue from the official repo (zipline)
 2017-06-24T03:00:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (zipline)
+2017-08-30T22:40:00 - Minor doc updates: linking to article on quantization (zipline)

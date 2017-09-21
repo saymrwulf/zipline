@@ -105,3 +105,4 @@
 2017-08-30T22:40:00 - Minor doc updates: linking to article on quantization (zipline)
 2017-09-22T22:10:00 - Refactor for clarity, might break a few tests though (zipline)
 2017-09-22T01:06:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (zipline)
+2017-09-22T01:37:00 - Minor doc updates: linking to article on quantization (zipline)

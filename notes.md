@@ -107,3 +107,4 @@
 2017-09-22T01:06:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (zipline)
 2017-09-22T01:37:00 - Minor doc updates: linking to article on quantization (zipline)
 2017-09-22T17:50:00 - Minor doc updates: linking to article on quantization (zipline)
+2018-03-25T18:03:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (zipline)

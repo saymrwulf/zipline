@@ -110,3 +110,4 @@
 2018-03-25T18:03:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (zipline)
 2018-03-25T03:53:00 - Refactor for clarity, might break a few tests though (zipline)
 2018-03-25T07:29:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (zipline)
+2018-05-09T23:41:00 - Implementing approach from a new paper read last night (zipline)

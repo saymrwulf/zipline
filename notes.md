@@ -112,3 +112,4 @@
 2018-03-25T07:29:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (zipline)
 2018-05-09T23:41:00 - Implementing approach from a new paper read last night (zipline)
 2018-05-09T20:42:00 - Minor doc updates: linking to article on quantization (zipline)
+2018-09-15T04:12:00 - Late-night bugfix on financial RL environment (zipline)

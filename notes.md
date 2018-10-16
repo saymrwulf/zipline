@@ -116,3 +116,4 @@
 2018-09-27T18:50:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (zipline)
 2018-09-27T04:38:00 - Late-night bugfix on financial RL environment (zipline)
 2018-09-27T03:09:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (zipline)
+2018-10-16T06:35:00 - Quick fix, referencing a known issue from the official repo (zipline)

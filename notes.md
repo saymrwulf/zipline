@@ -120,3 +120,4 @@
 2018-10-16T06:33:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (zipline)
 2018-10-18T18:18:00 - Quick fix, referencing a known issue from the official repo (zipline)
 2018-11-03T23:05:00 - Minor doc updates: linking to article on quantization (zipline)
+2018-11-03T20:03:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (zipline)

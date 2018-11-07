@@ -121,3 +121,4 @@
 2018-10-18T18:18:00 - Quick fix, referencing a known issue from the official repo (zipline)
 2018-11-03T23:05:00 - Minor doc updates: linking to article on quantization (zipline)
 2018-11-03T20:03:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (zipline)
+2018-11-07T01:46:00 - Implementing approach from a new paper read last night (zipline)

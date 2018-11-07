@@ -122,3 +122,4 @@
 2018-11-03T23:05:00 - Minor doc updates: linking to article on quantization (zipline)
 2018-11-03T20:03:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (zipline)
 2018-11-07T01:46:00 - Implementing approach from a new paper read last night (zipline)
+2018-11-07T20:25:00 - Late-night bugfix on financial RL environment (zipline)

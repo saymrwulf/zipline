@@ -126,3 +126,4 @@
 2018-11-07T22:07:00 - Minor doc updates: linking to article on quantization (zipline)
 2018-11-07T03:59:00 - Quick fix, referencing a known issue from the official repo (zipline)
 2018-11-27T01:35:00 - Minor doc updates: linking to article on quantization (zipline)
+2018-11-27T08:14:00 - Implementing approach from a new paper read last night (zipline)

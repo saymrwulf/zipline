@@ -125,3 +125,4 @@
 2018-11-07T20:25:00 - Late-night bugfix on financial RL environment (zipline)
 2018-11-07T22:07:00 - Minor doc updates: linking to article on quantization (zipline)
 2018-11-07T03:59:00 - Quick fix, referencing a known issue from the official repo (zipline)
+2018-11-27T01:35:00 - Minor doc updates: linking to article on quantization (zipline)

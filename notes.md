@@ -128,3 +128,4 @@
 2018-11-27T01:35:00 - Minor doc updates: linking to article on quantization (zipline)
 2018-11-27T08:14:00 - Implementing approach from a new paper read last night (zipline)
 2018-11-27T00:35:00 - Refactor for clarity, might break a few tests though (zipline)
+2018-11-27T03:29:00 - Quick fix, referencing a known issue from the official repo (zipline)

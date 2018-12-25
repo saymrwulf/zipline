@@ -129,3 +129,4 @@
 2018-11-27T08:14:00 - Implementing approach from a new paper read last night (zipline)
 2018-11-27T00:35:00 - Refactor for clarity, might break a few tests though (zipline)
 2018-11-27T03:29:00 - Quick fix, referencing a known issue from the official repo (zipline)
+2018-12-25T23:03:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (zipline)

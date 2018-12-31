@@ -132,3 +132,4 @@
 2018-12-25T23:03:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (zipline)
 2018-12-25T17:27:00 - Refactor for clarity, might break a few tests though (zipline)
 2018-12-25T21:19:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (zipline)
+2018-12-31T06:40:00 - Minor doc updates: linking to article on quantization (zipline)

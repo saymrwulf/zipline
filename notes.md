@@ -138,3 +138,4 @@
 2018-12-31T17:55:00 - Refactor for clarity, might break a few tests though (zipline)
 2019-01-27T07:07:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (zipline)
 2019-01-27T22:24:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (zipline)
+2019-01-27T21:07:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (zipline)

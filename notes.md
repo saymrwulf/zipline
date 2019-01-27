@@ -136,3 +136,4 @@
 2018-12-31T05:08:00 - Implementing approach from a new paper read last night (zipline)
 2018-12-31T02:54:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (zipline)
 2018-12-31T17:55:00 - Refactor for clarity, might break a few tests though (zipline)
+2019-01-27T07:07:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (zipline)

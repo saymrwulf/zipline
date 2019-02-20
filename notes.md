@@ -145,3 +145,4 @@
 2019-02-08T22:52:00 - Implementing approach from a new paper read last night (zipline)
 2019-02-08T04:57:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (zipline)
 2019-02-18T23:26:00 - Late-night bugfix on financial RL environment (zipline)
+2019-02-20T22:00:00 - Implementing approach from a new paper read last night (zipline)

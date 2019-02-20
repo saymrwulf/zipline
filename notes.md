@@ -147,3 +147,4 @@
 2019-02-18T23:26:00 - Late-night bugfix on financial RL environment (zipline)
 2019-02-20T22:00:00 - Implementing approach from a new paper read last night (zipline)
 2019-02-20T21:02:00 - Refactor for clarity, might break a few tests though (zipline)
+2019-02-20T23:25:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (zipline)

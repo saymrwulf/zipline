@@ -149,3 +149,4 @@
 2019-02-20T21:02:00 - Refactor for clarity, might break a few tests though (zipline)
 2019-02-20T23:25:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (zipline)
 2019-04-29T21:54:00 - Minor doc updates: linking to article on quantization (zipline)
+2019-04-29T02:44:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (zipline)

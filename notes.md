@@ -151,3 +151,4 @@
 2019-04-29T21:54:00 - Minor doc updates: linking to article on quantization (zipline)
 2019-04-29T02:44:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (zipline)
 2019-05-16T20:31:00 - Quick fix, referencing a known issue from the official repo (zipline)
+2019-05-24T02:49:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (zipline)

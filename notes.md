@@ -156,3 +156,4 @@
 2019-07-31T06:24:00 - Late-night bugfix on financial RL environment (zipline)
 2019-07-31T01:20:00 - Late-night bugfix on financial RL environment (zipline)
 2019-07-31T21:12:00 - Refactor for clarity, might break a few tests though (zipline)
+2019-07-31T23:18:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (zipline)

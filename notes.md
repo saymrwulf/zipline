@@ -155,3 +155,4 @@
 2019-05-24T17:31:00 - Quick fix, referencing a known issue from the official repo (zipline)
 2019-07-31T06:24:00 - Late-night bugfix on financial RL environment (zipline)
 2019-07-31T01:20:00 - Late-night bugfix on financial RL environment (zipline)
+2019-07-31T21:12:00 - Refactor for clarity, might break a few tests though (zipline)

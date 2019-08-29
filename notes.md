@@ -160,3 +160,4 @@
 2019-08-29T01:42:00 - Late-night bugfix on financial RL environment (zipline)
 2019-08-29T21:05:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (zipline)
 2019-08-29T08:28:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (zipline)
+2019-08-29T20:55:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (zipline)

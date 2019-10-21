@@ -164,3 +164,4 @@
 2019-08-31T02:39:00 - Quick fix, referencing a known issue from the official repo (zipline)
 2019-08-31T17:04:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (zipline)
 2019-10-03T21:56:00 - Quick fix, referencing a known issue from the official repo (zipline)
+2019-10-21T06:12:00 - Quick fix, referencing a known issue from the official repo (zipline)

@@ -166,3 +166,4 @@
 2019-10-03T21:56:00 - Quick fix, referencing a known issue from the official repo (zipline)
 2019-10-21T06:12:00 - Quick fix, referencing a known issue from the official repo (zipline)
 2019-10-30T06:09:00 - Quick fix, referencing a known issue from the official repo (zipline)
+2019-10-30T05:15:00 - Minor doc updates: linking to article on quantization (zipline)

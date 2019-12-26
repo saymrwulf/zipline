@@ -170,3 +170,4 @@
 2019-10-30T05:46:00 - Late-night bugfix on financial RL environment (zipline)
 2019-12-26T17:10:00 - Late-night bugfix on financial RL environment (zipline)
 2019-12-26T02:22:00 - Minor doc updates: linking to article on quantization (zipline)
+2019-12-26T17:29:00 - Late-night bugfix on financial RL environment (zipline)

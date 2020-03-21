@@ -175,3 +175,4 @@
 2020-02-07T19:47:00 - Implementing approach from a new paper read last night (zipline)
 2020-02-07T18:25:00 - Late-night bugfix on financial RL environment (zipline)
 2020-03-21T07:07:00 - Quick fix, referencing a known issue from the official repo (zipline)
+2020-03-21T23:53:00 - Refactor for clarity, might break a few tests though (zipline)

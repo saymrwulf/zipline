@@ -177,3 +177,4 @@
 2020-03-21T07:07:00 - Quick fix, referencing a known issue from the official repo (zipline)
 2020-03-21T23:53:00 - Refactor for clarity, might break a few tests though (zipline)
 2020-03-21T22:57:00 - Quick fix, referencing a known issue from the official repo (zipline)
+2020-04-28T03:28:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (zipline)

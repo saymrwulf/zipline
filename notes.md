@@ -180,3 +180,4 @@
 2020-04-28T03:28:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (zipline)
 2020-04-28T01:27:00 - Minor doc updates: linking to article on quantization (zipline)
 2020-04-28T22:45:00 - Refactor for clarity, might break a few tests though (zipline)
+2020-04-28T07:10:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (zipline)

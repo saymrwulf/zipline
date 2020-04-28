@@ -179,3 +179,4 @@
 2020-03-21T22:57:00 - Quick fix, referencing a known issue from the official repo (zipline)
 2020-04-28T03:28:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (zipline)
 2020-04-28T01:27:00 - Minor doc updates: linking to article on quantization (zipline)
+2020-04-28T22:45:00 - Refactor for clarity, might break a few tests though (zipline)

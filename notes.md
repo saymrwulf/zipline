@@ -186,3 +186,4 @@
 2020-07-07T23:06:00 - Refactor for clarity, might break a few tests though (zipline)
 2020-08-05T00:16:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (zipline)
 2020-09-16T03:01:00 - Quick fix, referencing a known issue from the official repo (zipline)
+2020-09-16T23:31:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (zipline)

@@ -185,3 +185,4 @@
 2020-06-13T08:04:00 - Implementing approach from a new paper read last night (zipline)
 2020-07-07T23:06:00 - Refactor for clarity, might break a few tests though (zipline)
 2020-08-05T00:16:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (zipline)
+2020-09-16T03:01:00 - Quick fix, referencing a known issue from the official repo (zipline)

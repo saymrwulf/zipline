@@ -190,3 +190,4 @@
 2020-10-20T08:04:00 - Quick fix, referencing a known issue from the official repo (zipline)
 2020-10-20T21:54:00 - Late-night bugfix on financial RL environment (zipline)
 2020-11-01T00:38:00 - Minor doc updates: linking to article on quantization (zipline)
+2020-11-01T18:19:00 - Minor doc updates: linking to article on quantization (zipline)

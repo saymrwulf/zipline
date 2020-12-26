@@ -191,3 +191,4 @@
 2020-10-20T21:54:00 - Late-night bugfix on financial RL environment (zipline)
 2020-11-01T00:38:00 - Minor doc updates: linking to article on quantization (zipline)
 2020-11-01T18:19:00 - Minor doc updates: linking to article on quantization (zipline)
+2020-12-26T23:57:00 - Minor doc updates: linking to article on quantization (zipline)

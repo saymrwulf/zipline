@@ -196,3 +196,4 @@
 2021-01-24T02:38:00 - Late-night bugfix on financial RL environment (zipline)
 2021-01-24T21:22:00 - Implementing approach from a new paper read last night (zipline)
 2021-01-24T03:44:00 - Implementing approach from a new paper read last night (zipline)
+2021-02-03T17:01:00 - Implementing approach from a new paper read last night (zipline)

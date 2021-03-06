@@ -199,3 +199,4 @@
 2021-02-03T17:01:00 - Implementing approach from a new paper read last night (zipline)
 2021-02-17T17:28:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (zipline)
 2021-03-06T02:09:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (zipline)
+2021-03-06T08:55:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (zipline)

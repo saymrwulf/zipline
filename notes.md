@@ -202,3 +202,4 @@
 2021-03-06T08:55:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (zipline)
 2021-05-13T19:33:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (zipline)
 2021-05-13T06:41:00 - Minor doc updates: linking to article on quantization (zipline)
+2021-05-13T22:22:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (zipline)

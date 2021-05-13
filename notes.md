@@ -201,3 +201,4 @@
 2021-03-06T02:09:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (zipline)
 2021-03-06T08:55:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (zipline)
 2021-05-13T19:33:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (zipline)
+2021-05-13T06:41:00 - Minor doc updates: linking to article on quantization (zipline)

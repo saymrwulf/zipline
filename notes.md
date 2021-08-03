@@ -211,3 +211,4 @@
 2021-07-12T02:07:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (zipline)
 2021-07-12T21:09:00 - Late-night bugfix on financial RL environment (zipline)
 2021-07-12T00:37:00 - Refactor for clarity, might break a few tests though (zipline)
+2021-08-03T21:33:00 - Refactor for clarity, might break a few tests though (zipline)

@@ -213,3 +213,4 @@
 2021-07-12T00:37:00 - Refactor for clarity, might break a few tests though (zipline)
 2021-08-03T21:33:00 - Refactor for clarity, might break a few tests though (zipline)
 2021-08-08T01:27:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (zipline)
+2021-09-14T06:12:00 - Minor doc updates: linking to article on quantization (zipline)

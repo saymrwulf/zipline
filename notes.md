@@ -217,3 +217,4 @@
 2021-09-14T21:47:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (zipline)
 2021-09-21T19:33:00 - Quick fix, referencing a known issue from the official repo (zipline)
 2021-10-09T03:18:00 - Quick fix, referencing a known issue from the official repo (zipline)
+2021-10-09T18:45:00 - Late-night bugfix on financial RL environment (zipline)

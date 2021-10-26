@@ -219,3 +219,4 @@
 2021-10-09T03:18:00 - Quick fix, referencing a known issue from the official repo (zipline)
 2021-10-09T18:45:00 - Late-night bugfix on financial RL environment (zipline)
 2021-10-11T20:29:00 - Refactor for clarity, might break a few tests though (zipline)
+2021-10-26T23:16:00 - Quick fix, referencing a known issue from the official repo (zipline)

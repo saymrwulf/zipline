@@ -221,3 +221,4 @@
 2021-10-11T20:29:00 - Refactor for clarity, might break a few tests though (zipline)
 2021-10-26T23:16:00 - Quick fix, referencing a known issue from the official repo (zipline)
 2021-10-26T01:38:00 - Minor doc updates: linking to article on quantization (zipline)
+2021-10-26T23:55:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (zipline)

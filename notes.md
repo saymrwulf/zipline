@@ -223,3 +223,4 @@
 2021-10-26T01:38:00 - Minor doc updates: linking to article on quantization (zipline)
 2021-10-26T23:55:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (zipline)
 2021-11-07T02:48:00 - Quick fix, referencing a known issue from the official repo (zipline)
+2021-11-07T23:24:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (zipline)

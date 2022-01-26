@@ -227,3 +227,4 @@
 2021-11-07T21:53:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (zipline)
 2022-01-26T23:06:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (zipline)
 2022-01-26T08:13:00 - Late-night bugfix on financial RL environment (zipline)
+2022-01-26T02:48:00 - Implementing approach from a new paper read last night (zipline)

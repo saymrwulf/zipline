@@ -232,3 +232,4 @@
 2022-05-04T18:00:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (zipline)
 2022-05-04T08:53:00 - Refactor for clarity, might break a few tests though (zipline)
 2022-05-16T01:41:00 - Implementing approach from a new paper read last night (zipline)
+2022-05-26T02:55:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (zipline)

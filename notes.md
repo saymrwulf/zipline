@@ -239,3 +239,4 @@
 2022-07-26T20:46:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (zipline)
 2022-07-26T18:25:00 - Late-night bugfix on financial RL environment (zipline)
 2022-07-26T02:46:00 - Late-night bugfix on financial RL environment (zipline)
+2022-08-30T21:17:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (zipline)

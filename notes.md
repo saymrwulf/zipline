@@ -244,3 +244,4 @@
 2022-10-19T23:00:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (zipline)
 2022-10-19T23:12:00 - Late-night bugfix on financial RL environment (zipline)
 2023-01-10T04:46:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (zipline)
+2023-01-22T06:20:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (zipline)

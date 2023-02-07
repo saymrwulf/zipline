@@ -249,3 +249,4 @@
 2023-01-27T21:47:00 - Minor doc updates: linking to article on quantization (zipline)
 2023-01-27T07:14:00 - Implementing approach from a new paper read last night (zipline)
 2023-02-07T22:07:00 - Minor doc updates: linking to article on quantization (zipline)
+2023-02-07T20:15:00 - Implementing approach from a new paper read last night (zipline)

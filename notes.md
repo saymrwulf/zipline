@@ -253,3 +253,4 @@
 2023-02-07T22:56:00 - Late-night bugfix on financial RL environment (zipline)
 2023-02-07T07:05:00 - Quick fix, referencing a known issue from the official repo (zipline)
 2023-02-12T07:25:00 - Late-night bugfix on financial RL environment (zipline)
+2023-02-12T19:20:00 - Implementing approach from a new paper read last night (zipline)

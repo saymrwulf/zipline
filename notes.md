@@ -256,3 +256,4 @@
 2023-02-12T19:20:00 - Implementing approach from a new paper read last night (zipline)
 2023-02-23T22:03:00 - Late-night bugfix on financial RL environment (zipline)
 2023-02-23T19:34:00 - Quick fix, referencing a known issue from the official repo (zipline)
+2023-02-23T07:13:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (zipline)

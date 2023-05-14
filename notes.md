@@ -260,3 +260,4 @@
 2023-02-23T20:30:00 - Minor doc updates: linking to article on quantization (zipline)
 2023-03-15T07:40:00 - Quick fix, referencing a known issue from the official repo (zipline)
 2023-03-15T05:35:00 - Late-night bugfix on financial RL environment (zipline)
+2023-05-14T18:30:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (zipline)

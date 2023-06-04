@@ -271,3 +271,4 @@
 2023-05-28T23:04:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (zipline)
 2023-05-28T23:19:00 - Quick fix, referencing a known issue from the official repo (zipline)
 2023-06-04T23:01:00 - Quick fix, referencing a known issue from the official repo (zipline)
+2023-06-04T06:01:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (zipline)

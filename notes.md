@@ -278,3 +278,4 @@
 2023-06-14T01:49:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (zipline)
 2023-07-05T21:33:00 - Implementing approach from a new paper read last night (zipline)
 2023-07-11T18:33:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (zipline)
+2023-07-11T22:07:00 - Refactor for clarity, might break a few tests though (zipline)

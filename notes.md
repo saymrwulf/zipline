@@ -280,3 +280,4 @@
 2023-07-11T18:33:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (zipline)
 2023-07-11T22:07:00 - Refactor for clarity, might break a few tests though (zipline)
 2023-08-04T08:34:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (zipline)
+2023-09-11T08:39:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (zipline)

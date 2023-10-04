@@ -287,3 +287,4 @@
 2023-09-23T22:45:00 - Minor doc updates: linking to article on quantization (zipline)
 2023-09-23T00:18:00 - Quick fix, referencing a known issue from the official repo (zipline)
 2023-10-04T05:26:00 - Minor doc updates: linking to article on quantization (zipline)
+2023-10-04T02:28:00 - Quick fix, referencing a known issue from the official repo (zipline)

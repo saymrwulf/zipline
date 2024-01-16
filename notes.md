@@ -292,3 +292,4 @@
 2023-11-14T22:06:00 - Refactor for clarity, might break a few tests though (zipline)
 2024-01-16T00:39:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (zipline)
 2024-01-16T01:51:00 - Implementing approach from a new paper read last night (zipline)
+2024-01-16T02:04:00 - Quick fix, referencing a known issue from the official repo (zipline)

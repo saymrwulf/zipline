@@ -300,3 +300,4 @@
 2024-02-21T07:07:00 - Quick fix, referencing a known issue from the official repo (zipline)
 2024-02-13T23:18:00 - Minor doc updates: linking to article on quantization (zipline)
 2024-02-13T23:08:00 - Minor doc updates: linking to article on quantization (zipline)
+2024-02-13T01:10:00 - Implementing approach from a new paper read last night (zipline)

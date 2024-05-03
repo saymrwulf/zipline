@@ -303,3 +303,4 @@
 2024-02-13T01:10:00 - Implementing approach from a new paper read last night (zipline)
 2024-02-20T17:58:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (zipline)
 2024-02-20T03:33:00 - Minor doc updates: linking to article on quantization (zipline)
+2024-05-04T01:28:00 - Refactor for clarity, might break a few tests though (zipline)

@@ -306,3 +306,4 @@
 2024-05-04T01:28:00 - Refactor for clarity, might break a few tests though (zipline)
 2024-05-04T21:43:00 - Refactor for clarity, might break a few tests though (zipline)
 2024-05-08T03:50:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (zipline)
+2024-05-08T03:16:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (zipline)

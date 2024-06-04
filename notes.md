@@ -311,3 +311,4 @@
 2024-05-24T05:09:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (zipline)
 2024-05-24T22:37:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (zipline)
 2024-06-04T01:01:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (zipline)
+2024-06-04T07:29:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (zipline)

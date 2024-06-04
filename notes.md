@@ -312,3 +312,4 @@
 2024-05-24T22:37:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (zipline)
 2024-06-04T01:01:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (zipline)
 2024-06-04T07:29:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (zipline)
+2024-06-04T17:38:00 - Implementing approach from a new paper read last night (zipline)

@@ -314,3 +314,4 @@
 2024-06-04T07:29:00 - Testing bigger LLM config, referencing 'Attention Is All You Need' (zipline)
 2024-06-04T17:38:00 - Implementing approach from a new paper read last night (zipline)
 2024-06-04T18:32:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (zipline)
+2024-09-12T03:27:00 - Late-night bugfix on financial RL environment (zipline)

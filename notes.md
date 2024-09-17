@@ -318,3 +318,4 @@
 2024-09-12T00:23:00 - Late-night bugfix on financial RL environment (zipline)
 2024-09-12T20:58:00 - Implementing approach from a new paper read last night (zipline)
 2024-09-12T03:49:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (zipline)
+2024-09-17T07:19:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (zipline)

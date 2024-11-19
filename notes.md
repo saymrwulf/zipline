@@ -322,3 +322,4 @@
 2024-09-17T07:23:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (zipline)
 2024-09-17T00:07:00 - Quick fix, referencing a known issue from the official repo (zipline)
 2024-11-19T22:13:00 - Refactor for clarity, might break a few tests though (zipline)
+2024-11-19T20:03:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (zipline)

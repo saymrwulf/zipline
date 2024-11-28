@@ -325,3 +325,4 @@
 2024-11-19T20:03:00 - Trying out boneh-franklin approach for IBE (ref. 2003 paper) (zipline)
 2024-11-19T05:06:00 - Quick fix, referencing a known issue from the official repo (zipline)
 2024-11-28T00:19:00 - Quick fix, referencing a known issue from the official repo (zipline)
+2024-11-28T08:55:00 - Experimenting with FPGA constraints (source: Trimberger 'Three Ages of FPGAs') (zipline)
